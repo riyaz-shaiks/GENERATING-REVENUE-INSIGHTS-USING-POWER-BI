@@ -3,6 +3,29 @@
 In India, Atliq Grands is the owner of numerous five-star hotels. They have 20 years of experience in the hotel sector. Atliq Grands are losing market share and revenue in the category of luxury/business hotels segment as a result of strategic actions made by rivals and inadequate management decisions. With the help of this analysis the managing director of Atliq Grands wants to implement the business strategies in order to reclaim their market share and income.
 
 
+# Description
+
+A hospitality company noticed a loss in market share and revenue over the past few months. To understand the cause of this loss, they needed a way to analyze it. So, I created a dashboard in Power BI using three months of data.
+
+• Mockup review and gathering of business requirements.
+
+• Data transformation using Power Query.
+
+• Building metrics using DAX.
+
+• Performed Data Cleaning and Data Modelling.
+
+• Performed Data Processing by adding some customized columns to the data.
+
+• Performed Data visualization to create charts and custom sheets to show the insights.
+
+
+With the dashboard created, the revenue team of the company was able to gain insights about their revenue trend. This could help them regain their revenue and market share by 20% in the next month.
+
+
+
+
+
 # DashBoard ScreenShot
 
 
